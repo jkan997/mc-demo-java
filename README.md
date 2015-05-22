@@ -3,7 +3,9 @@ This package is proof of concept of runnint [Marcel Boucher Marketing Cloud Demo
 This demo uses brand new Nashorn JavaScript Engine from Java 8, so you need to Java 8 installed.
 Please have in my mind that right now only one path is tested.
 
-To run demo download JAR file:
+Here you can download JAR file and view  screencast
+
+https://www.dropbox.com/sh/w1ti5bm62betqi7/AAD3g-7jPDItSwJHpybdKy58a
 
 And run it:
 ```bash
