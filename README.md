@@ -5,7 +5,7 @@ Please have in my mind that right now only one path is tested.
 
 Here you can download JAR file and view  screencast
 
-https://www.dropbox.com/sh/w1ti5bm62betqi7/AAD3g-7jPDItSwJHpybdKy58a
+http://bit.ly/1HmSMc3
 
 And run it:
 ```bash
