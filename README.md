@@ -1,6 +1,8 @@
 # Introduction
-This package is proof of concept of runnint [Marcel Boucher Marketing Cloud Demo Tools](/mboucher/mc-apac-demo) in purely Java enviroment in place in Node.JS
+This package is proof of concept of runnint [Marcel Boucher Marketing Cloud Demo Tools](https://github.com/mboucher/mc-apac-demo) in purely Java enviroment in place in Node.js
+
 This demo uses brand new Nashorn JavaScript Engine from Java 8, so you need to Java 8 installed.
+
 Please have in my mind that right now only one path is tested.
 
 Here you can download JAR file and view  screencast
